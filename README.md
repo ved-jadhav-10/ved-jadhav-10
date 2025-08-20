@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Ved Jadhav  
 
-<!--
-**ved-jadhav-10/ved-jadhav-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **technology, coding, problem-solving and making fun things** 
+💡 Always trying to learn new skills and work on cool ideas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages:** C, C++, Python, Java, JavaScript  
+- **Web:** HTML, CSS, React, Node.js
+- **Other:** Git, Docker, Kubernetes, Linux
+
+---
+
+## 🌱 Current Focus  
+- Exploring **Computer Science Fundamentals and Infrastructure**  
+- Building fun **mini-games** & **projects**  
+- Learning more about **Technology and AI** 
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vedjadhav)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:ved.amit.jadhav@gmail.com)
