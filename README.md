@@ -7,8 +7,8 @@
 
 ## 🛠️ Tech Stack  
 - **Languages:** C, C++, Python, Java, JavaScript
-- **Web Dev:** HTML, CSS, React, Node.js, MongoDB, Express.js
-- **Other:** Git, Docker, Kubernetes, Linux
+- **Web Dev:** HTML, Tailwind CSS, React, Node.js, MongoDB, Express.js
+- **Other:** Flutter, Git, Docker, Kubernetes, Linux
 
 ---
 
