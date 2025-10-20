@@ -1,5 +1,6 @@
 # Hi, I'm Ved Jadhav  
-Passionate about **technology, coding, problem-solving and making fun things** /br
+Passionate about **technology, coding, problem-solving and making fun things**
+<br>
 Always trying to learn new skills and work on cool ideas
 
 ---
