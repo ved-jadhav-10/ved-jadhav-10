@@ -5,5 +5,5 @@ Always trying to learn new skills and work on cool ideas
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](LinkedIn)](https://www.linkedin.com/in/vedjadhav)  
-[![Email](Email)](mailto:ved.amit.jadhav@gmail.com)
+- LinkedIn -> https://www.linkedin.com/in/vedjadhav/
+- Mail -> ved.amit.jadhav@gmail.com
