@@ -1,21 +1,6 @@
-# 👋 Hi, I'm Ved Jadhav  
-
-🚀 Passionate about **technology, coding, problem-solving and making fun things** 
-💡 Always trying to learn new skills and work on cool ideas
-
----
-
-## 🛠️ Tech Stack  
-- **Languages:** C, C++, Python, Java, JavaScript
-- **Web Dev:** HTML, Tailwind CSS, React, Node.js, MongoDB, Express.js
-- **Other:** Flutter, Git, Docker, Kubernetes, Linux
-
----
-
-## 🌱 Current Focus  
-- Exploring **Computer Science Fundamentals and Infrastructure**  
-- Building fun **mini-games** & **projects**  
-- Learning more about **Technology and AI** 
+# Hi, I'm Ved Jadhav  
+Passionate about **technology, coding, problem-solving and making fun things** 
+Always trying to learn new skills and work on cool ideas
 
 ---
 
