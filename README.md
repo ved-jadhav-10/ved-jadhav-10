@@ -3,28 +3,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ved+Jadhav!;" />
 </h1>
-
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
-
-<br/>
-
 <div align="center">
  
 # Hi, I'm Ved Jadhav  
 Passionate about **technology, coding, problem-solving and making fun things**
 <br>
 Always trying to learn new skills and work on cool ideas
-
-# Hi, I'm Ved Jadhav  
-Passionate about **technology, coding, problem-solving and making fun things**
-<br>
-Always trying to learn new skills and work on cool ideas
-
----
-
-## 📫 Connect with Me  
-- LinkedIn -> https://www.linkedin.com/in/vedjadhav/
-- Mail -> ved.amit.jadhav@gmail.com
 
  </div>
  
