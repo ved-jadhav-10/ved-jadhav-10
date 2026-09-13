@@ -17,7 +17,7 @@ Always trying to learn new skills and work on cool ideas, the potential of tech 
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
-  <a href="https://linkedin.com/in/vedjadhav/" target="_blank">
+  <a href="https://linkedin.com/in/vedjadhav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -25,7 +25,7 @@ Always trying to learn new skills and work on cool ideas, the potential of tech 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/u/Ved_Jadhav/" target="_blank">
+  <a href="https://leetcode.com/u/Ved_Jadhav" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
@@ -35,9 +35,9 @@ Always trying to learn new skills and work on cool ideas, the potential of tech 
 <div align="center">
 
   📧 **Gmail:** ved.amit.jadhav@gmail.com  
-  💼 **LinkedIn:** https://linkedin.com/in/vedjadhav/  
+  💼 **LinkedIn:** https://linkedin.com/in/vedjadhav
   💻 **GitHub:** https://github.com/ved-jadhav-10  
-  🧩 **LeetCode:** https://leetcode.com/u/Ved_Jadhav/
+  🧩 **LeetCode:** https://leetcode.com/u/Ved_Jadhav
 
 </div>
 
