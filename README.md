@@ -35,7 +35,7 @@ Always trying to learn new skills and work on cool ideas, the potential of tech 
 <div align="center">
 
   📧 **Gmail:** ved.amit.jadhav@gmail.com  
-  💼 **LinkedIn:** https://linkedin.com/in/vedjadhav   
+  💼 **LinkedIn:** https://linkedin.com/in/vedjadhav               
   💻 **GitHub:** https://github.com/ved-jadhav-10  
   🧩 **LeetCode:** https://leetcode.com/u/Ved_Jadhav
 
