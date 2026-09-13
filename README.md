@@ -16,12 +16,29 @@ Always trying to learn new skills and work on cool ideas, the potential of tech 
   <a href="mailto:ved.amit.jadhav@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
   <a href="https://linkedin.com/in/vedjadhav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/ved-jadhav-10" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://leetcode.com/u/Ved_Jadhav/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+
+  📧 **Gmail:** ved.amit.jadhav@gmail.com  
+  💼 **LinkedIn:** https://linkedin.com/in/vedjadhav/  
+  💻 **GitHub:** https://github.com/ved-jadhav-10  
+  🧩 **LeetCode:** https://leetcode.com/u/Ved_Jadhav/
+
 </div>
 
 <br/>
